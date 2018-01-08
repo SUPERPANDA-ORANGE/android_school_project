@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final_test</string>
+    <string name="welcom_head_01">开启智能活动平台</string>
+    <string name="welcom_content_01">将线下的活动搬到你的手机上，提供一站式解决服务平台</string>
+    <string name="welcom_head_02">随时分享</string>
+    <string name="welcom_content_02">运动、科技、招聘...随时向你的好友分享给精彩的活动</string>
+    <string name="welcom_head_03">随时查看</string>
+    <string name="welcom_content_03">任何时间、任何地点，拿起手机掌握身边最新最精彩的活动</string>
+    <string name="welcom_head_04">在线互动</string>
+    <string name="welcom_content_04">成功参加的活动后，可以与所有参加成员互动，文字、语音、视频...让沟通使活动活起来</string>
+    <string name="use_account_login">使用账号登陆</string>
+    <string name="forgetpassword">忘记密码？</string>
+    <string name="free_regist">免费注册</string>
+    <string name="usethirdaccount">使用合作账号登陆</string>
+    <string name="weibo">微博</string>
+    <string name="weixin">微信</string>
+</resources>
